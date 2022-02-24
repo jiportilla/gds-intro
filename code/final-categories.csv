@@ -1,0 +1,62 @@
+URL,Label,Score
+https://www.ibm.com/cloud/blog/cloud-at-the-edge,/technology and computing,0.869217
+https://www.ibm.com/cloud/blog/cloud-at-the-edge,/technology and computing/internet technology,0.823215
+https://www.ibm.com/cloud/blog/cloud-at-the-edge,/technology and computing/networking/network monitoring and management,0.80841
+https://www.ibm.com/cloud/blog/rounding-out-the-edges,/technology and computing/hardware,0.834985
+https://www.ibm.com/cloud/blog/rounding-out-the-edges,/technology and computing/operating systems,0.786255
+https://www.ibm.com/cloud/blog/rounding-out-the-edges,/technology and computing/networking/network monitoring and management,0.783145
+https://www.ibm.com/cloud/blog/architecting-at-the-edge,/technology and computing/hardware,0.960884
+https://www.ibm.com/cloud/blog/architecting-at-the-edge,/technology and computing/operating systems,0.953606
+https://www.ibm.com/cloud/blog/architecting-at-the-edge,/technology and computing/hardware/computer,0.939843
+https://www.ibm.com/cloud/blog/devops-at-the-edge,/technology and computing/hardware,0.99188
+https://www.ibm.com/cloud/blog/devops-at-the-edge,/technology and computing/operating systems,0.984458
+https://www.ibm.com/cloud/blog/devops-at-the-edge,/technology and computing/hardware/computer,0.920949
+https://www.ibm.com/cloud/blog/policies-at-the-edge,/technology and computing/hardware,0.987811
+https://www.ibm.com/cloud/blog/policies-at-the-edge,/technology and computing/operating systems,0.971352
+https://www.ibm.com/cloud/blog/policies-at-the-edge,/technology and computing/hardware/computer peripherals,0.950761
+https://www.ibm.com/cloud/blog/security-at-the-edge,/technology and computing/computer security/network security,0.95694
+https://www.ibm.com/cloud/blog/security-at-the-edge,/technology and computing/operating systems,0.91259
+https://www.ibm.com/cloud/blog/security-at-the-edge,/technology and computing/networking/network monitoring and management,0.848695
+https://www.ibm.com/cloud/blog/analytics-at-the-edge,/technology and computing,0.824822
+https://www.ibm.com/cloud/blog/analytics-at-the-edge,/technology and computing/hardware/computer components,0.821715
+https://www.ibm.com/cloud/blog/analytics-at-the-edge,/technology and computing/hardware/computer,0.792951
+https://www.ibm.com/cloud/blog/5g-at-the-edge,/technology and computing/networking/network monitoring and management,0.973927
+https://www.ibm.com/cloud/blog/5g-at-the-edge,/technology and computing/hardware/computer networking/wireless technology,0.952431
+https://www.ibm.com/cloud/blog/5g-at-the-edge,/technology and computing/internet technology,0.922361
+https://www.ibm.com/cloud/blog/clusters-at-the-edge,/technology and computing/operating systems,0.958588
+https://www.ibm.com/cloud/blog/clusters-at-the-edge,/technology and computing/networking/network monitoring and management,0.924974
+https://www.ibm.com/cloud/blog/clusters-at-the-edge,/technology and computing/hardware,0.918511
+https://www.ibm.com/cloud/blog/automation-at-the-edge,/technology and computing/networking/network monitoring and management,0.95902
+https://www.ibm.com/cloud/blog/automation-at-the-edge,/technology and computing/hardware/computer components,0.914718
+https://www.ibm.com/cloud/blog/automation-at-the-edge,/business and industrial/automation,0.89458
+https://www.ibm.com/cloud/blog/network-slicing-at-the-edge,/technology and computing/networking/network monitoring and management,0.938113
+https://www.ibm.com/cloud/blog/network-slicing-at-the-edge,/technology and computing/hardware,0.87144
+https://www.ibm.com/cloud/blog/network-slicing-at-the-edge,/technology and computing/operating systems,0.871047
+https://www.ibm.com/cloud/blog/data-at-the-edge,/technology and computing/software/databases,0.996904
+https://www.ibm.com/cloud/blog/architectural-decisions-at-the-edge,/technology and computing/networking,0.941457
+https://www.ibm.com/cloud/blog/architectural-decisions-at-the-edge,/technology and computing/networking/network monitoring and management,0.925949
+https://www.ibm.com/cloud/blog/architectural-decisions-at-the-edge,/technology and computing/hardware/computer networking/wireless technology,0.910718
+https://www.ibm.com/cloud/blog/gitops-at-the-edge,/technology and computing/operating systems,0.958558
+https://www.ibm.com/cloud/blog/gitops-at-the-edge,/business and industrial/business software,0.92597
+https://www.ibm.com/cloud/blog/gitops-at-the-edge,/technology and computing/software,0.925791
+https://www.ibm.com/cloud/blog/cloud-services-at-the-edge,/technology and computing/operating systems,0.983652
+https://www.ibm.com/cloud/blog/cloud-services-at-the-edge,/technology and computing/hardware,0.977516
+https://www.ibm.com/cloud/blog/cloud-services-at-the-edge,/technology and computing/hardware/computer,0.90918
+https://www.ibm.com/cloud/blog/how-to-integrate-ibm-cloud-code-engine-with-ibm-git,/technology and computing/operating systems,0.994639
+https://www.ibm.com/cloud/blog/how-to-integrate-ibm-cloud-code-engine-with-ibm-git,/technology and computing/hardware/computer/servers,0.9319
+https://www.ibm.com/cloud/blog/how-to-integrate-ibm-cloud-code-engine-with-ibm-git,/technology and computing/operating systems/unix,0.877455
+https://www.ibm.com/cloud/blog/bandwidth-allocation-in-virtual-server-instances,/technology and computing/operating systems,0.923406
+https://www.ibm.com/cloud/blog/bandwidth-allocation-in-virtual-server-instances,/technology and computing/hardware,0.830209
+https://www.ibm.com/cloud/blog/bandwidth-allocation-in-virtual-server-instances,/technology and computing/hardware/computer components,0.785197
+https://www.ibm.com/cloud/blog/using-instance-metadata-and-trusted-profiles-for-managing-ssh-keys,/technology and computing/operating systems,0.966603
+https://www.ibm.com/cloud/blog/using-instance-metadata-and-trusted-profiles-for-managing-ssh-keys,/technology and computing/hardware/computer/servers,0.919846
+https://www.ibm.com/cloud/blog/using-instance-metadata-and-trusted-profiles-for-managing-ssh-keys,/technology and computing/internet technology/email,0.817078
+https://www.ibm.com/cloud/blog/bpmn,/business and industrial/business operations/management/business process,0.84936
+https://www.ibm.com/cloud/blog/bpmn,/business and industrial/business software,0.716997
+https://www.ibm.com/cloud/blog/bpmn,/technology and computing/software,0.630989
+https://www.ibm.com/cloud/blog/truck-tracker-an-iot-pattern-using-ibm-cloud-services,/technology and computing/operating systems,0.910148
+https://www.ibm.com/cloud/blog/truck-tracker-an-iot-pattern-using-ibm-cloud-services,/technology and computing/software/databases,0.869127
+https://www.ibm.com/cloud/blog/truck-tracker-an-iot-pattern-using-ibm-cloud-services,/technology and computing/hardware/computer/servers,0.801867
+https://www.ibm.com/cloud/blog/optical-character-recognition,/technology and computing/hardware/computer,0.978824
+https://www.ibm.com/cloud/blog/optical-character-recognition,/technology and computing/software,0.931648
+https://www.ibm.com/cloud/blog/optical-character-recognition,/technology and computing/hardware/computer components,0.915361
